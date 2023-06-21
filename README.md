@@ -1,3 +1,4 @@
-# fictionsuit
+# fictionscript
+An offshoot from https://github.com/deepfates/fictionsuit
 
-We can interact with simulacra inside of language models. Now. they can interact with our reality as well
+This is a scripting language and environment for working with LLMs, locally and through APIs.
